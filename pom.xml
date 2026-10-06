@@ -32,5 +32,5 @@
 		    <artifactId>websocket-server</artifactId>
 		    <version>9.4.54.v20240208</version>
 		</dependency>
-    </dependencies>
+      </dependencies>
 </project>
